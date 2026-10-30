@@ -1,0 +1,4 @@
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\TEST2_\obj\Debug\net9.0\TEST2_.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\TEST2_\obj\Debug\net9.0\TEST2_.AssemblyInfoInputs.cache
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\TEST2_\obj\Debug\net9.0\TEST2_.AssemblyInfo.cs
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\TEST2_\obj\Debug\net9.0\TEST2_.csproj.CoreCompileInputs.cache

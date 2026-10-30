@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lucrarea5", "Lucrarea5.csproj", "{CC7F2568-EBF4-3060-0AE7-7C2F0865367D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC7F2568-EBF4-3060-0AE7-7C2F0865367D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC7F2568-EBF4-3060-0AE7-7C2F0865367D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC7F2568-EBF4-3060-0AE7-7C2F0865367D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC7F2568-EBF4-3060-0AE7-7C2F0865367D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D8E967F-2324-4314-B8D1-13D31AD8BC01}
+	EndGlobalSection
+EndGlobal

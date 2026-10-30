@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Lucrarea3/1.0.0": {
+        "runtime": {
+          "Lucrarea3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lucrarea3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,21 @@
+- e aprox la fel ca java
+- are clase, bun pt oop, aceleasi concepte ca la java
+- exista readonly pt atribute
+
+- Console.WriteLine("ndgs") - afisare
+- Console.ReadLine() - se citeste un string => int a=Convert.ToInt32(Console.ReadLine()) pt intreg etc...
+- avem foreach: foreach (<Type> t in array)
+
+- mai eficient List decat ArrayList in c#!
+
+
+- parametrii prin referinta: ref int param
+- parametrul de output out <type> param ii by default param prin referrinta, se poate sau nu modifica in functie, si daca nu e initializat nu se intampla nimic
+
+- mostenire de clase ->  abstract class X {}  class Y extends X (java) <=> class Y : X (c#)
+		 apelare de constructor: public Y{ super(x.param..)} (java) <=> base(x.param..) c#
+
+1. USING SYSTEM la inceput de program
+2. se ruleaza cu DOTNET RUN
+3. se creeaza proiect nou cu DOTNET NEW CONSOLE
+

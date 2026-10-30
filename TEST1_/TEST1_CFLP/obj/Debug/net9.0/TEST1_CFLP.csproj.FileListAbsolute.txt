@@ -1,0 +1,14 @@
+C:\Users\Alexandra\OneDrive\Desktop\TEST1_CFLP\bin\Debug\net9.0\TEST1_CFLP.exe
+C:\Users\Alexandra\OneDrive\Desktop\TEST1_CFLP\bin\Debug\net9.0\TEST1_CFLP.deps.json
+C:\Users\Alexandra\OneDrive\Desktop\TEST1_CFLP\bin\Debug\net9.0\TEST1_CFLP.runtimeconfig.json
+C:\Users\Alexandra\OneDrive\Desktop\TEST1_CFLP\bin\Debug\net9.0\TEST1_CFLP.dll
+C:\Users\Alexandra\OneDrive\Desktop\TEST1_CFLP\bin\Debug\net9.0\TEST1_CFLP.pdb
+C:\Users\Alexandra\OneDrive\Desktop\TEST1_CFLP\obj\Debug\net9.0\TEST1_CFLP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandra\OneDrive\Desktop\TEST1_CFLP\obj\Debug\net9.0\TEST1_CFLP.AssemblyInfoInputs.cache
+C:\Users\Alexandra\OneDrive\Desktop\TEST1_CFLP\obj\Debug\net9.0\TEST1_CFLP.AssemblyInfo.cs
+C:\Users\Alexandra\OneDrive\Desktop\TEST1_CFLP\obj\Debug\net9.0\TEST1_CFLP.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\OneDrive\Desktop\TEST1_CFLP\obj\Debug\net9.0\TEST1_CFLP.dll
+C:\Users\Alexandra\OneDrive\Desktop\TEST1_CFLP\obj\Debug\net9.0\refint\TEST1_CFLP.dll
+C:\Users\Alexandra\OneDrive\Desktop\TEST1_CFLP\obj\Debug\net9.0\TEST1_CFLP.pdb
+C:\Users\Alexandra\OneDrive\Desktop\TEST1_CFLP\obj\Debug\net9.0\TEST1_CFLP.genruntimeconfig.cache
+C:\Users\Alexandra\OneDrive\Desktop\TEST1_CFLP\obj\Debug\net9.0\ref\TEST1_CFLP.dll

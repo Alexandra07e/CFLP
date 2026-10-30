@@ -1,0 +1,14 @@
+C:\Users\Alexandra\Desktop\TEST_CFLP\obj\Debug\net9.0\TEST_CFLP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandra\Desktop\TEST_CFLP\obj\Debug\net9.0\TEST_CFLP.AssemblyInfoInputs.cache
+C:\Users\Alexandra\Desktop\TEST_CFLP\obj\Debug\net9.0\TEST_CFLP.AssemblyInfo.cs
+C:\Users\Alexandra\Desktop\TEST_CFLP\obj\Debug\net9.0\TEST_CFLP.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\TEST_CFLP\bin\Debug\net9.0\TEST_CFLP.exe
+C:\Users\Alexandra\Desktop\TEST_CFLP\bin\Debug\net9.0\TEST_CFLP.deps.json
+C:\Users\Alexandra\Desktop\TEST_CFLP\bin\Debug\net9.0\TEST_CFLP.runtimeconfig.json
+C:\Users\Alexandra\Desktop\TEST_CFLP\bin\Debug\net9.0\TEST_CFLP.dll
+C:\Users\Alexandra\Desktop\TEST_CFLP\bin\Debug\net9.0\TEST_CFLP.pdb
+C:\Users\Alexandra\Desktop\TEST_CFLP\obj\Debug\net9.0\TEST_CFLP.dll
+C:\Users\Alexandra\Desktop\TEST_CFLP\obj\Debug\net9.0\refint\TEST_CFLP.dll
+C:\Users\Alexandra\Desktop\TEST_CFLP\obj\Debug\net9.0\TEST_CFLP.pdb
+C:\Users\Alexandra\Desktop\TEST_CFLP\obj\Debug\net9.0\TEST_CFLP.genruntimeconfig.cache
+C:\Users\Alexandra\Desktop\TEST_CFLP\obj\Debug\net9.0\ref\TEST_CFLP.dll

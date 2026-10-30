@@ -1,0 +1,14 @@
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\TEST2_\MODEL3\obj\Debug\net9.0\MODEL3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\TEST2_\MODEL3\obj\Debug\net9.0\MODEL3.AssemblyInfoInputs.cache
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\TEST2_\MODEL3\obj\Debug\net9.0\MODEL3.AssemblyInfo.cs
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\TEST2_\MODEL3\obj\Debug\net9.0\MODEL3.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\TEST2_\MODEL3\bin\Debug\net9.0\MODEL3.exe
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\TEST2_\MODEL3\bin\Debug\net9.0\MODEL3.deps.json
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\TEST2_\MODEL3\bin\Debug\net9.0\MODEL3.runtimeconfig.json
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\TEST2_\MODEL3\bin\Debug\net9.0\MODEL3.dll
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\TEST2_\MODEL3\bin\Debug\net9.0\MODEL3.pdb
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\TEST2_\MODEL3\obj\Debug\net9.0\MODEL3.dll
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\TEST2_\MODEL3\obj\Debug\net9.0\refint\MODEL3.dll
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\TEST2_\MODEL3\obj\Debug\net9.0\MODEL3.pdb
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\TEST2_\MODEL3\obj\Debug\net9.0\MODEL3.genruntimeconfig.cache
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\TEST2_\MODEL3\obj\Debug\net9.0\ref\MODEL3.dll

@@ -1,0 +1,14 @@
+C:\Users\Alexandra\OneDrive\Desktop\FACULTA\AN3\CFLP\TEST1_\Student3\bin\Debug\net9.0\Student3.exe
+C:\Users\Alexandra\OneDrive\Desktop\FACULTA\AN3\CFLP\TEST1_\Student3\bin\Debug\net9.0\Student3.deps.json
+C:\Users\Alexandra\OneDrive\Desktop\FACULTA\AN3\CFLP\TEST1_\Student3\bin\Debug\net9.0\Student3.runtimeconfig.json
+C:\Users\Alexandra\OneDrive\Desktop\FACULTA\AN3\CFLP\TEST1_\Student3\bin\Debug\net9.0\Student3.dll
+C:\Users\Alexandra\OneDrive\Desktop\FACULTA\AN3\CFLP\TEST1_\Student3\bin\Debug\net9.0\Student3.pdb
+C:\Users\Alexandra\OneDrive\Desktop\FACULTA\AN3\CFLP\TEST1_\Student3\obj\Debug\net9.0\Student3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandra\OneDrive\Desktop\FACULTA\AN3\CFLP\TEST1_\Student3\obj\Debug\net9.0\Student3.AssemblyInfoInputs.cache
+C:\Users\Alexandra\OneDrive\Desktop\FACULTA\AN3\CFLP\TEST1_\Student3\obj\Debug\net9.0\Student3.AssemblyInfo.cs
+C:\Users\Alexandra\OneDrive\Desktop\FACULTA\AN3\CFLP\TEST1_\Student3\obj\Debug\net9.0\Student3.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\OneDrive\Desktop\FACULTA\AN3\CFLP\TEST1_\Student3\obj\Debug\net9.0\Student3.dll
+C:\Users\Alexandra\OneDrive\Desktop\FACULTA\AN3\CFLP\TEST1_\Student3\obj\Debug\net9.0\refint\Student3.dll
+C:\Users\Alexandra\OneDrive\Desktop\FACULTA\AN3\CFLP\TEST1_\Student3\obj\Debug\net9.0\Student3.pdb
+C:\Users\Alexandra\OneDrive\Desktop\FACULTA\AN3\CFLP\TEST1_\Student3\obj\Debug\net9.0\Student3.genruntimeconfig.cache
+C:\Users\Alexandra\OneDrive\Desktop\FACULTA\AN3\CFLP\TEST1_\Student3\obj\Debug\net9.0\ref\Student3.dll

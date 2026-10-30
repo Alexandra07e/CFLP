@@ -1,0 +1,14 @@
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\TEST2_\MODEL2\bin\Debug\net9.0\MODEL2.exe
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\TEST2_\MODEL2\bin\Debug\net9.0\MODEL2.deps.json
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\TEST2_\MODEL2\bin\Debug\net9.0\MODEL2.runtimeconfig.json
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\TEST2_\MODEL2\bin\Debug\net9.0\MODEL2.dll
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\TEST2_\MODEL2\bin\Debug\net9.0\MODEL2.pdb
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\TEST2_\MODEL2\obj\Debug\net9.0\MODEL2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\TEST2_\MODEL2\obj\Debug\net9.0\MODEL2.AssemblyInfoInputs.cache
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\TEST2_\MODEL2\obj\Debug\net9.0\MODEL2.AssemblyInfo.cs
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\TEST2_\MODEL2\obj\Debug\net9.0\MODEL2.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\TEST2_\MODEL2\obj\Debug\net9.0\MODEL2.dll
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\TEST2_\MODEL2\obj\Debug\net9.0\refint\MODEL2.dll
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\TEST2_\MODEL2\obj\Debug\net9.0\MODEL2.pdb
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\TEST2_\MODEL2\obj\Debug\net9.0\MODEL2.genruntimeconfig.cache
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\TEST2_\MODEL2\obj\Debug\net9.0\ref\MODEL2.dll

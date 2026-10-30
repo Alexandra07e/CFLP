@@ -1,0 +1,14 @@
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\Lucrarea9\bin\Debug\net9.0\Lucrarea9.exe
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\Lucrarea9\bin\Debug\net9.0\Lucrarea9.deps.json
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\Lucrarea9\bin\Debug\net9.0\Lucrarea9.runtimeconfig.json
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\Lucrarea9\bin\Debug\net9.0\Lucrarea9.dll
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\Lucrarea9\bin\Debug\net9.0\Lucrarea9.pdb
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\Lucrarea9\obj\Debug\net9.0\Lucrarea9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\Lucrarea9\obj\Debug\net9.0\Lucrarea9.AssemblyInfoInputs.cache
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\Lucrarea9\obj\Debug\net9.0\Lucrarea9.AssemblyInfo.cs
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\Lucrarea9\obj\Debug\net9.0\Lucrarea9.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\Lucrarea9\obj\Debug\net9.0\Lucrarea9.dll
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\Lucrarea9\obj\Debug\net9.0\refint\Lucrarea9.dll
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\Lucrarea9\obj\Debug\net9.0\Lucrarea9.pdb
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\Lucrarea9\obj\Debug\net9.0\Lucrarea9.genruntimeconfig.cache
+C:\Users\Alexandra\Desktop\FACULTA\AN3\SEM1\CFLP\Lucrarea9\obj\Debug\net9.0\ref\Lucrarea9.dll

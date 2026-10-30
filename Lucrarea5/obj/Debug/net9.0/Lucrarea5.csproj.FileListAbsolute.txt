@@ -1,0 +1,14 @@
+C:\Users\Alexandra\OneDrive\Desktop\FACULTA\AN3\CFLP\Lucrarea5\bin\Debug\net9.0\Lucrarea5.exe
+C:\Users\Alexandra\OneDrive\Desktop\FACULTA\AN3\CFLP\Lucrarea5\bin\Debug\net9.0\Lucrarea5.deps.json
+C:\Users\Alexandra\OneDrive\Desktop\FACULTA\AN3\CFLP\Lucrarea5\bin\Debug\net9.0\Lucrarea5.runtimeconfig.json
+C:\Users\Alexandra\OneDrive\Desktop\FACULTA\AN3\CFLP\Lucrarea5\bin\Debug\net9.0\Lucrarea5.dll
+C:\Users\Alexandra\OneDrive\Desktop\FACULTA\AN3\CFLP\Lucrarea5\bin\Debug\net9.0\Lucrarea5.pdb
+C:\Users\Alexandra\OneDrive\Desktop\FACULTA\AN3\CFLP\Lucrarea5\obj\Debug\net9.0\Lucrarea5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alexandra\OneDrive\Desktop\FACULTA\AN3\CFLP\Lucrarea5\obj\Debug\net9.0\Lucrarea5.AssemblyInfoInputs.cache
+C:\Users\Alexandra\OneDrive\Desktop\FACULTA\AN3\CFLP\Lucrarea5\obj\Debug\net9.0\Lucrarea5.AssemblyInfo.cs
+C:\Users\Alexandra\OneDrive\Desktop\FACULTA\AN3\CFLP\Lucrarea5\obj\Debug\net9.0\Lucrarea5.csproj.CoreCompileInputs.cache
+C:\Users\Alexandra\OneDrive\Desktop\FACULTA\AN3\CFLP\Lucrarea5\obj\Debug\net9.0\Lucrarea5.dll
+C:\Users\Alexandra\OneDrive\Desktop\FACULTA\AN3\CFLP\Lucrarea5\obj\Debug\net9.0\refint\Lucrarea5.dll
+C:\Users\Alexandra\OneDrive\Desktop\FACULTA\AN3\CFLP\Lucrarea5\obj\Debug\net9.0\Lucrarea5.pdb
+C:\Users\Alexandra\OneDrive\Desktop\FACULTA\AN3\CFLP\Lucrarea5\obj\Debug\net9.0\Lucrarea5.genruntimeconfig.cache
+C:\Users\Alexandra\OneDrive\Desktop\FACULTA\AN3\CFLP\Lucrarea5\obj\Debug\net9.0\ref\Lucrarea5.dll
